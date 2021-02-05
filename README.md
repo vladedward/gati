@@ -1,4 +1,4 @@
-<p align="center"><img width="100" src="https://github.com/vladedward/gati/blob/wasm-configuration/logo.png?raw=true" alt="Gati logo"></p>
+<p align="center"><img width="100" src="https://github.com/vladedward/gati/blob/main/logo.png?raw=true" alt="Gati logo"></p>
 
 <p align="center">Gati - WebAssembly open-source library used to speed up your project.
 
